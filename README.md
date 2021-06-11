@@ -1,3 +1,2 @@
-# react-hvhwjs
+My First React application
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-hvhwjs)
